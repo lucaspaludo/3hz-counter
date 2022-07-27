@@ -1,1 +1,1 @@
-# 3hz-counter
+3Hz counter with Amega8
